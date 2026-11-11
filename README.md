@@ -5,7 +5,7 @@ Python and pandas.
 
 ## Data
 
-[17K Mobile Strategy Games](<https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games?resource=download>) on Kaggle, by <Tristan>,
+[17K Mobile Strategy Games](https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games?resource=download) on Kaggle, by Tristan,
 licensed under CC BY 4.0. The data was collected on 3 August 2019, so
 2019 is a partial year. Download `appstore_games.csv` and put it in the `data/`
 folder (it is not included in this repository).
